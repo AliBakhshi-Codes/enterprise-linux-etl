@@ -1,0 +1,28 @@
+ID,FirstName,LastName,Gender,Email,City,State,ZipCode,GradeLvl,Degree,Donation
+1000,Anthony ,Absolute,Female,someone1@cub.uca.edu,White Hall,AR,71602,4,Computer Science,10
+1001,Baba,Yaga,Female,someone1@cub.uca.edu,Conway,AR,72032,4,Computer Science,10
+1002,Bilbo ,Baggins,Male,someone1@cub.uca.edu,Greenbrier,AR,72058,2,Computer Science,10
+1003,Isabel,Archer,F,someone1@cub.uca.edu,Almaty,Kazakhstan,050000,Senior,Information Systems,10
+1004,James,Bond,M,someone1@cub.uca.edu,Center Ridge,AR,72027,Senior,Computer Science,10
+1005,Brer ,Rabbit,M,someone1@cub.uca.edu,Bryant,AR,72022,Senior,Computer Science,10
+1006,Molly,Blom,2,someone1@cub.uca.edu,Conway,AR,72034,Junior,Computer Science,10
+1007,Black ,Widow,2,someone1@cub.uca.edu,Conway,AR,72032,Graduate,Computer Science,10
+1008,Nick ,Carraway,Male,someone1@cub.uca.edu,Conway,AR,72035,3,Computer science,10
+1009,Roger,Chilingworth,1,someone1@cub.uca.edu,Little Rock,AR,72206,Junior,Information Systems,10
+1010,David ,Copperfiled,M,someone1@cub.uca.edu,Almaty,KZ,72034,3,Computer Science,10
+1011,Robinson,Crusoe,Male,someone1@cub.uca.edu,Haskell,AR,72015,2,Cyber Security,10
+1012,Ethan,Frome,M,someone1@cub.uca.edu,Fort Smith,AR,72904,Senior,Computer Science ,10
+1013,Boris,Godunov,Male,someone1@cub.uca.edu,Rockville,MD,20851,2,Computer Science,10
+1014,Emmeline,Grangerford,Female,someone1@cub.uca.edu,Rowlett,TX,75089,3,Computer Science,10
+1015,Dorian,Gray,Male,someone1@cub.uca.edu,Fayetteville,AR,72701,2,Computer Science,10
+1016,Clariss,Harlowe,2,someone1@cub.uca.edu,Jacksonville,Ar,72076,Sophomore,Computer Science,10
+1017,Carol ,Kennicott,2,someone1@cub.uca.edu,Conway,AR,72032,Senior,Computer Science,10
+1018,Prince,Hal,Male,someone1@cub.uca.edu,Conway,AR,72032,3,Cyber Security,10
+1019,Sherlock,Holmes,Male,someone1@cub.uca.edu,Conway,AR,72034,4,Computer Science ,10
+1020,Lydia,Languish,Female,someone1@cub.uca.edu,Conway,AR,72035,Senior,Computer Science,10
+1021,Humpty,Dumpty,M,someone1@cub.uca.edu,Benton,AR,72019,Junior,Cyber Security,10
+1022,Wolf,Larsen,M,someone1@cub.uca.edu,Fort Smith,AR,72904,Senior,Mathematics - Data Science,10
+1023,Willy,Loman,Male,someone1@cub.uca.edu,North Little Rock,AR,72116,3,Cyber Security,10
+1024,Mock ,Turtle,Male,someone1@cub.uca.edu,Conway,AR,72032,Junior,Computer Science,10
+1025,Professor ,Moriarty,Male,someone1@cub.uca.edu,Conway,AR,72032,3,Computer Science,10
+1026,Eugene,Onegin,Male,someone1@cub.uca.edu,Conway,AR,72034,3,Cyber Security,10
